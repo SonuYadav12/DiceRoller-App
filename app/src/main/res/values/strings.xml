@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">DiceRoller</string>
+    <string name="_1" translatable="false">1</string>
+    <string name="roll" translatable="false">Roll</string>
+    <string name="todo">TODO</string>
+
+</resources>
